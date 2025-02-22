@@ -1,0 +1,17 @@
+var a int
+var b int
+var sum int
+
+input a b
+
+pl sum a b
+print sum
+
+mn sum a b
+print sum
+
+dv sum a b
+print sum
+
+ml sum a b
+print sum
